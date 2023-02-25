@@ -1,0 +1,19 @@
+.resourcebox{
+    position: absolute;
+    right: 1em;
+    top: 1em;
+    width: 20em;
+    height: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 0.5em;
+}
+.restag{
+    position: absolute;
+    left: 1em;
+}
+.resnum{
+    position: absolute;
+    right: 1em;
+}
